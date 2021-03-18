@@ -1,0 +1,27 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #252629;
+}
+
+.container h1, .container p {
+  color: #fff;
+}
+
+.container h1 {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+}
+
+.container p:nth-of-type(1) {
+  margin-bottom: .6rem;
+  font-size: 1.5rem;
+}
+
+.container p:nth-of-type(2) {
+  color: #4287f5;
+}
