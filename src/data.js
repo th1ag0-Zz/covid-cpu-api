@@ -12,7 +12,20 @@ const data = {
     }
   },
   vacina: {
-
+    "recebidas": "1628",
+    "aplicadas": "1125",
+    "disponiveis": "503",
+    "cobertura": "69.10%",
+    "distribuicao": {
+      "profissionais_de_saude": "509",
+      "idosos": "487",
+      "comorbidades": "44",
+      "dialiticos": "4"
+    },
+    "atualizacao": {
+      "data": "15/03/2021",
+      "hora": "10:20"
+    }
   }
 }
 
