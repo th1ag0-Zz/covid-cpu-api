@@ -1,14 +1,14 @@
 const data = {
   covid: {
-    "confirmados": "1034",
-    "recuperados": "924",
-    "ativos": "85",
-    "obitos": "25",
-    "descartados": "3714",
-    "suspeitos": "293",
+    "confirmados": "1044",
+    "recuperados": "927",
+    "ativos": "90",
+    "obitos": "27",
+    "descartados": "3742",
+    "suspeitos": "298",
     "atualizacao": {
-      "data": "20/03/2021",
-      "hora": "18:00"
+      "data": "22/03/2021",
+      "hora": "20:10"
     }
   },
   vacina: {
